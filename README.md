@@ -75,3 +75,4 @@ And you are done! You have successfully made your discord bot run. If you are ha
 
 Authored and maintained by [@JacProsser](https://github.com/JacProsser) & [@ghaku](https://github.com/ghaku).
 # Giveaway-BOT
+# Giveaway-BOT-V2
